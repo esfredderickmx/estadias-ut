@@ -1,0 +1,21 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@red: #f44336;
+@pink: #e91e63;
+@purple: #9c27b0;
+@violet: #673ab7;
+@blue: #2196f3;
+@teal: #009688;
+@green: #4caf50;
+@olive: #cddc39;
+@yellow: #ffc107;
+@orange: #ff5722;
+@brown: #795548;
+@grey: #607d8b;
+@black: #000000;
+@primaryColor: @teal;
+@secondaryColor: @grey;
+@focusedFormBorderColor: @primaryColor;
+@focusedFormMutedBorderColor: @primaryColor;
