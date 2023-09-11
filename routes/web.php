@@ -15,3 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'pages.index')->name('index');
 Route::view('/home', 'pages.index')->name('home');
+Route::view('/login', 'pages.index')->name('login');
+Route::view('/terms', 'pages.index')->name('terms');
